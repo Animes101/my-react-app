@@ -1,23 +1,13 @@
-.react p{
-    color:blue;
-    font-size: 18px;
-}
-
-.react h1{
-    color:red;
-    text-align: center;
-    font-size: 30px;
-}
-
-.Card{
+.card{
     background-color: gray;
     border:2px solid blue;
     box-shadow: 2px 2px 3px green;
     border-radius: 5px;
     padding: 10px;
+    margin-bottom: 5px;
 }
 
-.Card h1{
+.card h1{
     color:white 
 }
 .Card p{
@@ -25,7 +15,7 @@
 
 }
 
-.Card button{
+.card button{
     background-color: orange;
     color:white;
     font-size: 20px;
